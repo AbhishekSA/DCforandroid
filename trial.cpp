@@ -1,6 +1,8 @@
 #include<stdio.h>
 int main()
 {
-printf("hello world");
+int num;
+scanf("%n",  &num);
+printf("square of number is:" ,(num*num));
 return 0;
 }
